@@ -6,7 +6,7 @@
 
 A simple, static, single-page application that shows an interactive map of friends.
 
-This challenge was taken from [ moovup / programming-test ](https://github.com/moovup/programming-test).
+This challenge was taken from [moovup / programming-test](https://github.com/moovup/programming-test).
 
 ## 📦 Files
 

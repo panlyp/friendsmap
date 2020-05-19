@@ -28,6 +28,7 @@ This challenge was taken from [moovup / programming-test](https://github.com/moo
 3. **`/css/styles.css`** - The stylesheet to add more tweaks.
 4. **`/js/original.js`** - The JavaScript source that defines the functions.
     - Includes a MapBox token with URL restrictions set.
+    - Records with invalid lng/lat will not be shown.
 5. **`/js/obfuscated.js`** - An obfuscated version of `original.js` used for deployment.
 6. **`/assets/screenshots.png`** - A screenshot of the hosted app.
 
